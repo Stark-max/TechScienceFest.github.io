@@ -4,7 +4,7 @@ This project created for learning GitVCS and working with team. Theme of project
 ## Team members:
 * Azizbek uulu Adakhan - Project Manager
 * Akylbek uulu Bekbolot - QA Manager
-*
+* Ismailova Bermet - Designer 
 *
 *
 *
