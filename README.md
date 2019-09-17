@@ -10,7 +10,7 @@ This project created for learning GitVCS and working with team. Theme of project
 *
 
 ## Link to working server:
-TechScienceFest.github.io
+https://TechScienceFest.github.io
 
 ## Tasks:
 https://docs.google.com/document/d/1ANB-hcB9ipm39NN7tTxCdVn0pk89by8ZHv-0nu90is8/edit
