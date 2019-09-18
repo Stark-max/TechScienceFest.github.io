@@ -1,0 +1,30 @@
+@charset utf-8;
+body {
+	background-color: #000;
+}
+
+p {
+	line-height: 28px;
+	margin-bottom: 25px;
+	text-indent: 25px;
+}
+
+.text {
+	font-family: "Times New Roman";
+	color: #ffffff;
+	padding: 2%;
+}
+
+footer {
+	position: relative;
+	bottom: 0;
+	min-height: 300%
+}
+
+.inner {
+	text-align: center;
+	color: #ffffff;
+	font-family: "Times New Roman";
+	font-size: 15px;
+}
+
