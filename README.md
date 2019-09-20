@@ -7,7 +7,7 @@ This project created for learning GitVCS and working with team. Theme of project
 * Ismailova Bermet - Designer 
 * Nurlanbek uulu Saddambek - Frontend Developer
 * Nurbaev Maksatbek - Content maker
-*
+* Ryspaeva Kasiet - Technical Documentation writer
 
 ## Link to working server:
 https://TechScienceFest.github.io
