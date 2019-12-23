@@ -19,7 +19,7 @@ https://easybacklog.com/accounts/30638/backlogs/338848
 https://docs.google.com/document/d/1ANB-hcB9ipm39NN7tTxCdVn0pk89by8ZHv-0nu90is8/edit
 
 ## Tools that was used:
-HTML, CSS, JavaScript, Bootstrap, GitHub
+HTML, CSS, JavaScript, Bootstrap, GitHub, Jquery, Google Map
 
 ## Deadline: 24.09.2019
 We have to spend at least 2 hours everyday and commit at least 15 commits.
